@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krkgaz.pl/sitemap.xml
